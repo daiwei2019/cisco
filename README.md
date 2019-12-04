@@ -1,0 +1,2 @@
+# cisco
+auto mananerge devices
